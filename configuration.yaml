@@ -1,0 +1,7 @@
+homeassistant:
+  name: !secret home.name
+  latitude: !secret home.latitude
+  longitude: !secret home.longitude
+  elevation: !secret home.elevation
+  unit_system: metric
+  time_zone: America/Los_Angeles
